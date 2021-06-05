@@ -55,4 +55,4 @@ virtualenv.py
 .python-version
 .pytest_cache
 .vscode
-.mypy_cache
+.mypy_cacheroot_key
